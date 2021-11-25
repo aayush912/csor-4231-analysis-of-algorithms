@@ -4,7 +4,7 @@ Subject Code - CSOR 4231 <br />
 Professor - Mihalis Yannakakis <br />
 Semester - Fall 2021 <br />
 
-This repository contains the solutions to algorithmic assignments along with the questions. The solutions are just my answers and are not guaranteed to be entirely correct.  <br />
+This repository contains the solutions to algorithmic assignments along with the questions. The solutions are just my answers and are not guaranteed to be entirely correct. The solutions may contains some grammatical/notational mistakes. <br />
 
 Assignment 1: Complexity Analysis, Designing Algorithms <br />
 Assignment 2: Searching, Sorting, Randomized Algorithms, Lower Bound Analysis <br />
